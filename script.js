@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     var phrases = [
-        'Thank You',
+        '...Thank You...',
         'For Being A WonderFull Teacher.',
         'Happy Teachers Day',
         '~From~',
