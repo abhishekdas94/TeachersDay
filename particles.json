@@ -11,7 +11,7 @@
       "type":"circle",
       "stroke":{
           "width":3,
-          "color":"#ffffff"
+          "color":"#000000"
       }
     },
     "opacity":{
