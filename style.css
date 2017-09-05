@@ -11,16 +11,15 @@ body{
 
 #bubble {
     font-size: 45px;
-    font-family: Comic Sans MS, Verdana, monospace;
-    color: #2d509b;
+    font-family: Comic Sans MS;
     font-weight: bold;
     position: absolute;
   	background-color:white;
   	top:200;
-  	left:300;
+  	left:200;
   	color:black;
   	opacity: 0.8;
-    text-align: center;
+    
 }
 #cap{
     font-size: 45px;
