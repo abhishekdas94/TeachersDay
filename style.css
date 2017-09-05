@@ -22,4 +22,10 @@ body{
   	opacity: 0.8;
     text-align: center;
 }
+figurecaption{
+   font-size: 45px;
+  color: #2d509b;
+  font-weight: bold;
+   text-align: center;
+}
 
