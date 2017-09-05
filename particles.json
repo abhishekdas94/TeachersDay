@@ -1,17 +1,17 @@
 {
   "particles":{
     "number":{
-      "value":250
+      "value":150
      
     },
     "color":{
-      "value":"#4286f4"
+      "value":"#002e84"
       },
     "shape":{
       "type":"circle",
       "stroke":{
           "width":3,
-          "color":"#ffffff"
+          "color":"#050505"
       }
     },
     "opacity":{
@@ -33,7 +33,7 @@
     "line_linked":{
       "enable": true,
       "distance": 112,
-      "color":"#fff",
+      "color":"#007584",
       "width":1
     },
     "move":{
