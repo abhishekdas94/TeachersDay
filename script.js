@@ -1,7 +1,8 @@
 $(document).ready(function() {
 
     var phrases = [
-        'Thank You,<br>For Being A WonderFull Teacher.',
+        'Thank You',
+        'For Being A WonderFull Teacher.',
         'Happy Teachers Day',
         '~From~',
         '~Abhishek :)   ....',
@@ -14,7 +15,7 @@ $(document).ready(function() {
         newText: phrases[index++],
         letterSpeed: 170,
         repeat: Infinity,
-        timeBetweenRepeat: 2000,
+        timeBetweenRepeat: 1500,
         callback: function() {
             this.newText = phrases[index++ % len];
         },
