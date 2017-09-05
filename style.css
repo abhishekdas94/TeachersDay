@@ -1,12 +1,12 @@
 body{
   margin:0;
-  font: normal 16px Arial, Helvetica, sand-serif;
+  font: normal 16px Arial, Helvetica, sans-serif;
   color:#333;
 }
 
 #particles-js{
   background:Aquamarine ;
-  height:650px;
+  height:550px;
 }
 
 #bubble {
@@ -22,10 +22,10 @@ body{
   	opacity: 0.8;
     text-align: center;
 }
-figurecaption{
-   font-size: 45px;
-  color: #2d509b;
-  font-weight: bold;
-   text-align: center;
+#cap{
+    font-size: 45px;
+    color: #2d509b;
+    font-weight: bold;
+    text-align: center;
 }
 
