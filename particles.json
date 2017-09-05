@@ -1,11 +1,11 @@
 {
   "particles":{
     "number":{
-      "value":180
+      "value":50
      
     },
     "color":{
-      "value":"#4286f4"
+      "value":"#002e84"
       },
     "shape":{
       "type":"circle",
