@@ -1,6 +1,7 @@
 $(document).ready(function() {
 
     var phrases = [
+        'I may not have always shown it, but Im gratefull to have had such an awesome teacher like you.',
         'Thank You',
         'For Being A WonderFull Teacher.',
         'Happy Teachers Day',
