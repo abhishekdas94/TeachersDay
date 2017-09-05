@@ -16,7 +16,9 @@ body{
     position: absolute;
   	top:200;
   	left:200;
-  	color:#e81102;
+  	background-color:#e5fffd;
+    opacity: 0.8;
+    color:black;
   	width: 750px;
     
 }
