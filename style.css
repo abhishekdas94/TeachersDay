@@ -14,12 +14,10 @@ body{
     font-family: Comic Sans MS;
     font-weight: bold;
     position: absolute;
-  	background-color:#ffffbf;
   	top:200;
   	left:200;
   	color:black;
-  	opacity: 0.8;
-    width: 750px;
+  	width: 750px;
     
 }
 #cap{
